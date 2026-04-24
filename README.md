@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Rogelio! 👋
 
-<!--
-**rogeliojrrantael/rogeliojrrantael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a researcher and aspiring developer focused on **Computational Chemistry** and **Process Automation**.
 
-Here are some ideas to get you started:
+### 🧪 What I'm working on:
+- **Quantum Chemistry:** Running molecular optimizations using **ORCA 6.1.0**.
+- **Python Automation:** Developing scripts to extract and analyze data from large `.out` files.
+- **Web Development:** Learning to build professional project portfolios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+- **Scientific Tools:** ORCA
+- **Languages:** Python (Learning), HTML/CSS
+- **Tools:** Git, GitHub, Command Line
+
